@@ -5,7 +5,7 @@ fn main() {
 
     // subtraction
     let difference:f64 = 95.5 - 4.3;
-    println!("The difference of 05.5 and 4.3 = {}",difference);
+    println!("The difference of 95.5 and 4.3 = {}",difference);
 
     //multiplication
     let product = 4 * 30;
@@ -13,7 +13,7 @@ fn main() {
 
     //division
     let quotient = 56.7 / 32.2;
-    println!("The division of 56.7 and 32.3 = {:.3}",quotient );
+    println!("The division of 56.7 and 32.2 = {:.3}",quotient );
 
     //remainder
     let remainder = 43 % 5;
