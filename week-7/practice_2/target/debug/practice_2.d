@@ -1,1 +1,1 @@
-C:\Users\ebuka\OneDrive\Documents\c.okelzeCOS101\week-7\practice_2\target\debug\practice_2.exe: C:\Users\ebuka\OneDrive\Documents\c.okelzeCOS101\week-7\practice_2\src\main.rs
+D:\COS101\o.olomodosiCOS101\week-7\practice_2\target\debug\practice_2.exe: D:\COS101\o.olomodosiCOS101\week-7\practice_2\src\main.rs
